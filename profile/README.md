@@ -25,6 +25,8 @@ mit klarer Übergabe. Wenige Mandate, dafür in Tiefe.
 
 Praktische, herstellerneutrale Leitfäden für KI im Mittelstand — frei nutzbar:
 
+- ⚙️ **[self-improving-loop](https://github.com/azena-ai/self-improving-loop)** — ein
+  produktionserprobtes Muster für autonome Agenten, die ihre eigenen Instruktionen verbessern.
 - 📘 **[eu-ai-act-mittelstand](https://github.com/azena-ai/eu-ai-act-mittelstand)** — der EU AI Act,
   praktisch erklärt für deutsche KMU: Risikoklassen, Pflichten, Fristen.
 
